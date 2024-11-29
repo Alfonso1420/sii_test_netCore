@@ -1,0 +1,70 @@
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.exe
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.deps.json
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.runtimeconfig.json
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.pdb
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.AssemblyInfo.cs
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.apiEmployees.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.build.apiEmployees.props
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apiEmployees.props
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apiEmployees.props
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\scopedcss\bundle\apiEmployees.styles.css
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmplo.4A8B707B.Up2Date
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\refint\apiEmployees.dll
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.pdb
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.genruntimeconfig.cache
+C:\Users\PC\source\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\ref\apiEmployees.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\appsettings.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.staticwebassets.endpoints.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.exe
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.deps.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.runtimeconfig.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\apiEmployees.pdb
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.csproj.AssemblyReference.cache
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.AssemblyInfoInputs.cache
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.AssemblyInfo.cs
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\scopedcss\bundle\apiEmployees.styles.css
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.apiEmployees.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.apiEmployees.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.build.apiEmployees.props
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apiEmployees.props
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apiEmployees.props
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmplo.4A8B707B.Up2Date
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\refint\apiEmployees.dll
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.pdb
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\apiEmployees.genruntimeconfig.cache
+C:\Users\Alfonso CM\Documents\Visual Studio 2022\repos\EmployeesAdmin\apiEmployees\obj\Debug\net8.0\ref\apiEmployees.dll
